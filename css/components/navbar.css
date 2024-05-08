@@ -1,0 +1,10 @@
+.navbar-lewagon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90px;
+  box-shadow: 5px 0 10px rgba(0, 0, 0, 0.811);
+}
+.navbar-lewagon img {
+  width: 80px;
+}
